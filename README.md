@@ -1,1 +1,1 @@
-# Water-Quality-Analysis-using-GNN
+# Water-Quality-Analysis-of-South Eastern Costal States of India
