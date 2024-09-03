@@ -1,1 +1,4 @@
-# Water-Quality-Analysis-of-South Eastern Costal States of India
+# Water-Quality-Analysis-of-South Eastern Costal States of India  
+
+Water pollution is a global issue stemming from the release of dangerous substances into water bodies through human activities, significantly impacting freshwater and marine ecosystems. Major pollutants include sewage discharges, industrial activities, agricultural practices, and urban runoff. This contamination adversely affects water quality, leading to the loss of aquatic life, disruption of ecosystems, loss of coastal habitats, and adverse climate feedback.we propose conducting a water quality analysis in the southern eastern coastal states of Andhra Pradesh, Tamil Nadu, and Odisha. This analysis will encompass a range of physicochemical and biological parameters such as pH, temperature, conductivity, salinity, turbidity, dissolved oxygen (DO), biochemical oxygen demand (BOD), and chemical oxygen demand (COD) to evaluate coastal water quality.
+
