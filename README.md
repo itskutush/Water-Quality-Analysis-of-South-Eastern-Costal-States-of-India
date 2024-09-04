@@ -12,5 +12,17 @@ Water pollution is a global issue stemming from the release of dangerous substan
 - **Evaluation Metrics**: Accuracy,Precision,Recall,F1-Score
 - **Results**:Hybrid LSTM+GRU>GRU>LSTM>RNN
 
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/itskutush/Water-Quality-Analysis-of-South-Eastern-Costal-States-of-India.git
+2. Requirements:
+```bash
+   pip install -r requirements.tx
+
+
+  
+
 
 
