@@ -4,6 +4,9 @@ We propose conducting a water quality analysis in the southern eastern coastal s
 
 Water pollution is a global issue stemming from the release of dangerous substances into water bodies through human activities, significantly impacting freshwater and marine ecosystems. Major pollutants include sewage discharges, industrial activities, agricultural practices, and urban runoff. This contamination adversely affects water quality, leading to the loss of aquatic life, disruption of ecosystems, loss of coastal habitats, and adverse climate feedback.
 
+## Dataset
+Yearly data has been downloaded from Central Pollution Control Board of India (2022 - 2019) : (https://cpcb.nic.in/nwmp-data/)
+
 
 ## Features
 
@@ -19,10 +22,4 @@ Water pollution is a global issue stemming from the release of dangerous substan
    git clone https://github.com/itskutush/Water-Quality-Analysis-of-South-Eastern-Costal-States-of-India.git
 2. Requirements:
 ```bash
-   pip install -r requirements.tx
-
-
-  
-
-
-
+  pip install -r requirements.txt
