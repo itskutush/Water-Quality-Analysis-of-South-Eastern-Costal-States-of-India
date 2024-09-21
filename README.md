@@ -13,6 +13,7 @@ Yearly data has been downloaded from Central Pollution Control Board of India (2
 - **Evaluation Metrics**: Accuracy,Precision,Recall,F1-Score
 - **Results**:Hybrid LSTM+GRU>GRU>LSTM>RNN
 
+
 ## Installation
 
 1. Clone the repository:
